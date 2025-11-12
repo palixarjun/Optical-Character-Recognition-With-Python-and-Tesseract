@@ -1,0 +1,34 @@
+Che Anegel News
+
+6 Feb 16, USA Edition: OCR-2025
+
+Giant Electronic Calculator
+Completes First Calculation
+at Armoured Corps
+
+Date: February 14, 1946
+Location: Philadelphia, U.S.A.
+
+Philadelphia - This morning at the Moore School of
+Electrical Engineering, a massive new machine known as
+the Electronic Numerical Integrator and Computer
+(ENIAC) has successfully completed its first full
+computation for the United States Army’s Ballistics
+
+Research Laboratory.
+
+Officials report that the machine performed the artillery-trajectory calculation in
+mere minutes—a task that would have required hours of manual work. The army hopes that
+this speed will revolutionise wartime computing and permit far more rapid fire-control
+table production. Still, the machine is not yet a general-purpose computer: it must be
+rewired manually for each new problem, and designers say reliability remains a concern
+given the tremendous power consumption and heat generated.
+
+Professor Eckert commented that “we are at the threshold of a new age of computing
+machines,” and that within the next decade smaller and more efficient computers may
+well enter commercial and academic use. For now, however, ENIAC represents a
+significant leap in scientific and military calculation capability—proof-positive that
+the “electronic brain” may soon become reality.
+
+Many scientists believe that this machine heralds not just faster calculations, but a
+fundamental shift in how problems will be solved in engineering and science.

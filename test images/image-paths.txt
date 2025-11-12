@@ -1,0 +1,3 @@
+../test images/00-english-set.png
+../test images/08-hindi-set.png
+../test images/26-urdu-set.png
