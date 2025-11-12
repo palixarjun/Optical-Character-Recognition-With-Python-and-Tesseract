@@ -1,5 +1,5 @@
 python 3.9 
-tesseractOCR 3.0 (does not support python 3.10 and higher)
+tesseractOCR 3.0 (does not support python 3.10 and higher, though 5.5 is uploaded to the github)
 opencv (use pip opencv-python to install)
 pil (python module, will be installed together with pytesseract module)
 pytesseract (python module)
